@@ -1,4 +1,4 @@
-FROM smart-qt
+FROM 944590742144.dkr.ecr.eu-west-1.amazonaws.com/apply/smart-qt
 MAINTAINER Rihards Grichkus "rihards.grichkus@applyit.lv"
 
 # Install dependencies (mostly codecs)
